@@ -8,7 +8,7 @@ client.on('ready', () => {
       console.log(`ON ${client.guilds.size} Servers '     Script By : Liuuuuqa ' `);
     console.log(`----------------`);
   console.log(`Logged in as ${client.user.tag}!`);
-client.user.setGame(`آلي يحس نفسه آنه يهمني , خل يتفل على آحسآسه`,"http://twitch.tv/Liuuuuqa")
+client.user.setGame(`Sleeping منطمر`,"http://twitch.tv/Liuuuuqa")
 client.user.setStatus("dnd")
 });
 
